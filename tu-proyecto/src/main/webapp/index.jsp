@@ -31,5 +31,8 @@
     <br>
     <br>
     <a href="suma_acumulativa.jsp">Suma acumulativa.jsp</a>
+    <br>
+    <br>
+    <a href="tabla_multiplicar.jsp">Tabla de Multiplicar.jsp</a>
 </body>
 </html>
