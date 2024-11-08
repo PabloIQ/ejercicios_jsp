@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Viaje</title>
+	<meta charset="UTF-8">
+	<title>Viaje</title>
+	<link rel='stylesheet' type='text/css' href='estilo.css'>
 </head>
 <body>
 	<h2>Tiempo de Viaje</h2>

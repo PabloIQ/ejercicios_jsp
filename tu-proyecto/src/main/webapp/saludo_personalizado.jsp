@@ -3,8 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Saludo Personalizado</title>
+	<meta charset="UTF-8">
+	<title>Saludo Personalizado</title>
+	<link rel='stylesheet' type='text/css' href='estilo.css'>
 </head>
 <body>
 	<h2>Por favor, ingresa tu nombre y apellido en la URL para recibir un saludo personalizado</h2>
