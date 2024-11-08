@@ -28,5 +28,8 @@
     <br>
     <br>
     <a href="edades.jsp">Edades.jsp</a>
+    <br>
+    <br>
+    <a href="suma_acumulativa.jsp">Suma acumulativa.jsp</a>
 </body>
 </html>
