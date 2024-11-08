@@ -18,7 +18,7 @@
         // Verificar si los parámetros están presentes
         if (nombre != null && apellido != null) {
             // Si los parámetros existen, mostrar el saludo personalizado
-            out.println("<h3>Hola, " + nombre + " " + apellido + "! Bienvenido a nuestra página.</h3>");
+            out.println("<h3>Hola, " + nombre + " " + apellido + "! Bienvenido a mi página.</h3>");
         } else {
             // Si los parámetros no se pasaron, mostrar un mensaje
             out.println("<p>Por favor, ingresa tu nombre y apellido en la URL.</p>");
