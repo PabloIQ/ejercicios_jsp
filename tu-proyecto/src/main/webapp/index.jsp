@@ -5,7 +5,7 @@
     <link rel='stylesheet' type='text/css' href='estilo.css'>
 </head>
 <body>
-    <h1>Hola desde index.jsp!</h1>
+    <h1>PABLO IGNACIO QUINTERO</h1>
     <a href="miServlet">Ir a MiServlet</a>
     <br>
     <br>
